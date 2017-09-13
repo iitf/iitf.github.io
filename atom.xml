@@ -5,12 +5,12 @@
   <subtitle>时光与文字的邂逅之旅</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://iitf.github.io/"/>
   <updated>2017-09-12T06:00:03.262Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://iitf.github.io/</id>
   
   <author>
-    <name>时光</name>
+    <name>Li Huang</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/12/hello-world/"/>
-    <id>http://yoursite.com/2017/09/12/hello-world/</id>
+    <link href="http://iitf.github.io/2017/09/12/hello-world/"/>
+    <id>http://iitf.github.io/2017/09/12/hello-world/</id>
     <published>2017-09-12T06:00:03.262Z</published>
     <updated>2017-09-12T06:00:03.262Z</updated>
     
@@ -36,9 +36,9 @@
     </summary>
     
     
-      <category term="Android" scheme="http://yoursite.com/tags/Android/"/>
+      <category term="Android" scheme="http://iitf.github.io/tags/Android/"/>
     
-      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+      <category term="C++" scheme="http://iitf.github.io/tags/C/"/>
     
   </entry>
   
